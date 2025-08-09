@@ -1,0 +1,63 @@
+/*Gradient background with bells and stars*/
+.grad {
+    margin: 0px;
+    background-image: 
+    url(alpha.png), /*image layer*/
+    linear-gradient(rgb(139, 255, 129), 30%, rgb(247, 255, 137)); /*gradient layer*/
+    background-repeat: repeat;
+}
+
+/*Text box for the FAQ*/
+.textbox-1{
+    border-radius: 20px;
+    box-sizing: content-box;
+    background-color: #ffd2de;
+    width: 40%;
+    height: 28%;
+    padding: 20px;
+    margin: 30px;
+    margin-left: 28%;
+} 
+.textbox-2{
+    border-radius: 20px;
+    box-sizing: content-box;
+    background-color: #c1e1dd;
+    width: 40%;
+    height: 28%;
+    padding: 20px;
+    margin: 30px;
+    margin-left: 28%;
+} 
+.textbox-3{
+    border-radius: 20px;
+    box-sizing: content-box;
+    background-color: #b5d4eb;
+    width: 40%;
+    height: 28%;
+    padding: 20px;
+    margin: 30px;
+    margin-left: 28%;
+} 
+.border{
+    /*border elements*/
+    border-color: #5579cf;
+    border-width: 5px;
+    border-style: solid;
+}
+/*Text for the Questions*/
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/*colors for the text boxes*/
+.pink{color: #b91979;} 
+.green{color: #0ba895;}
+.blue{color: #1765ba;}
