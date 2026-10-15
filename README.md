@@ -31,7 +31,8 @@ This repository does not include any files from the original game. The docs will
 include screenshots from the game, original written analysis, and short code
 excerpts relevant to the research. Only modified files will be uploaded to this repository. 
 
-This project is for preservation and educational purposes. All trademarks and copyrights belong to Konami Group Corporation and their respective owners.
+This project is for preservation and educational purposes. *TwinBee PARADISE in Donburi Island*, and the TwinBee
+name and characters are the intellectual property of Konami. All trademarks and copyrights belong to Konami Group Corporation and their respective owners.
 
 ## Usage of AI/LLM Disclosure 
 Claude AI is used to help break down how Lingo works in Director, from syntax to
@@ -41,4 +42,4 @@ used to modify its files. AI is used only to aid understanding of the logic and 
 ## Contributing
 Contributions are welcome and very much appreciated. Helpful areas include testing
 on different Windows versions or emulators, editing/adding notes, and
-proofreading. Open an issue or pull request to get started.
+proofreading. 
